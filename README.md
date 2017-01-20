@@ -31,3 +31,4 @@ Some statistics to check the percentage of space used by a bucket, or any other 
 - Feel free to add more features! Really, we're curious about what you can think of. We'd expect the same if you worked with us.
 - Documentation and maintainability is a plus.
 - Don't you forget those unit tests.
+- We don’t want to know if you can do exactly as asked (or everybody would have the same result). We want to know what **you** bring to the table when working on a project, what is your secret sauce. More features? Best solution? Thinking outside the box?

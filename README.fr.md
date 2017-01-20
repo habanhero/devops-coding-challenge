@@ -32,3 +32,4 @@ Des statistiques pour afficher le pourcentage de l’espace total occupé par un
 - N'hésite pas à ajouter des fonctionnalités! Nous sommes curieux de voir ce à quoi tu peux penser. Nous nous attendrons à la même chose si tu travailles avec nous.
 - La documentation et la maintenabilité est un plus.
 - N'oublie pas les tests unitaires.
+- On ne cherche pas à savoir si vous pouvez uniquement suivre des instructions (sinon tous les résultats seraient pareils). On veut savoir qu'est-ce que **tu** contribues lorsque tu travailles sur un projet. C'est quoi ton secret. Plus de fonctionnalités? Meilleure solution? Idées originales?
